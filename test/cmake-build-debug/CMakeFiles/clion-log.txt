@@ -1,0 +1,6 @@
+"/Users/happys/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/203.6682.181/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/happys/Desktop/project/AI/C_project/final_project/test
+-- Creating the Library...
+-- Configuring done
+WARNING: Target "test" requests linking to directory "/Users/happys/Desktop/project/AI/C_project/final_project/test/OpenGUI/lib".  Targets may link only to libraries.  CMake is dropping the item.
+-- Generating done
+-- Build files have been written to: /Users/happys/Desktop/project/AI/C_project/final_project/test/cmake-build-debug
